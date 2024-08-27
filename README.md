@@ -2,6 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=myalt2335)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=myalt2335&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+![GitHub](https://github-readme-stats-salesp07.vercel.app/api?username=myalt2335&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 <!--
 **myalt2335/myalt2335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

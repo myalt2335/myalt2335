@@ -1,4 +1,4 @@
-## ![Hello](https://camo.githubusercontent.com/97d9a889b1411144eb9c314a0e156fc2f27ebaf0ba946acabfb0e99db86a3cac/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b416e6a616e612b5769636b72616d6173696e676865213b)
+## Hey There!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=myalt2335)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=myalt2335&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)

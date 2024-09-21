@@ -7,12 +7,12 @@
   <tr>
     <!-- GitHub Achievements -->
     <td>
-      ### 🏆 GitHub Achievements  
+    🏆 Achievements  
       <img src="https://github-profile-trophy.vercel.app/?username=myalt2335&margin-w=5&margin-h=5" />
     </td>
     <!-- GitHub Stats -->
     <td>
-      ### 📊 GitHub Stats  
+    📊 Stats  
       <img src="https://github-readme-stats-salesp07.vercel.app/api?username=myalt2335&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
       <br>
       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=myalt2335&count_private=true&theme=react&border_radius=10" />

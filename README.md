@@ -2,7 +2,7 @@
 # Hey There! 👋  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Myalt)](https://git.io/typing-svg)  
 
-🚀 **Developer | Open-Source Enthusiast | Lifelong Learner**  
+🚀 **Developer | Open-Source Enthusiast**  
 I'm passionate about creating innovative software solutions and sharing knowledge.  
 
 ---

@@ -1,6 +1,0 @@
-{
-  "playerRow": 2,
-  "botRow": 2,
-  "ball": { "col": 5, "row": 2, "dx": 1, "dy": 0 },
-  "score": { "player": 0, "bot": 0 }
-}

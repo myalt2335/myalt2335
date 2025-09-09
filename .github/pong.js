@@ -84,6 +84,21 @@ fs.writeFileSync("game/state.json", JSON.stringify(state, null, 2));
 
 // Update README
 let readme = fs.readFileSync("README.md", "utf8");
-const newBoard = "```\n" + render() + "\n```";
-readme = readme.replace(/```[\s\S]*```/, newBoard);
+
+const pongSection = `
+\`\`\`
+${render()}
+\`\`\`
+Score: Player ${score.player} — Bot ${score.bot}
+
+[⬆️ Up](../../actions/workflows/pong.yml?inputs[move]=up)  
+[⬇️ Down](../../actions/workflows/pong.yml?inputs[move]=down)  
+[▶ Advance](../../actions/workflows/pong.yml?inputs[move]=none)
+`;
+
+readme = readme.replace(
+  /<!-- PONG-START -->[\s\S]*<!-- PONG-END -->/,
+  `<!-- PONG-START -->\n${pongSection}\n<!-- PONG-END -->`
+);
+
 fs.writeFileSync("README.md", readme);

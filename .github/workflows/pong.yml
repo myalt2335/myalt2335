@@ -1,0 +1,31 @@
+name: Pong Game
+
+on:
+  workflow_dispatch:
+    inputs:
+      move:
+        description: "Player move"
+        required: true
+        type: choice
+        options:
+          - up
+          - down
+          - none
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run game step
+        run: |
+          node .github/pong.js "${{ github.event.inputs.move }}"
+
+      - name: Commit updated board
+        run: |
+          git config user.name "pong-bot"
+          git config user.email "pong-bot@users.noreply.github.com"
+          git add README.md game/state.json
+          git commit -m "Move: ${{ github.event.inputs.move }}"
+          git push
